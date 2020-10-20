@@ -1,0 +1,52 @@
+.BODY{
+    background-color: #ffffff;
+}
+.head{
+    padding: 30px;
+    color: royalblue;
+}
+#people-name{
+    color: rgb(53, 70, 121);
+}
+.information{
+    border: 1px solid coral;
+    padding: 20px;
+    margin: 10px;
+    font-size: 21px;
+    font-weight: 500;
+    margin-top: 30px;
+    background-color: rgb(231, 231, 231);
+    border-radius: 10px;
+}
+.address li{
+    font-size: 17px;
+    margin-left: 40px;
+}
+#user-list{
+    margin-top: 50px;
+    color: rgb(100, 46, 46);
+}
+.count{
+    text-align: center;
+    color: brown;
+}
+h2{
+    text-align: center;
+    color: brown;
+}
+.information p{
+    padding: 0px 50px;
+}
+information h3{
+    padding: 0px 50px;
+}
+h3 {
+    padding: 0px 50px;
+}
+.UL {
+    padding: 0px 100px;
+}
+h4{
+    padding: 10px;
+    color: rgb(0, 104, 104);
+}
